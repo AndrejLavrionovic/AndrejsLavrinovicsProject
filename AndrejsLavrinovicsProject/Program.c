@@ -8,11 +8,11 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void main()
+void main(void)
 {
 
 	
 
 	printf("\n\n\n");
 	system("pause");
-}
+} // main
