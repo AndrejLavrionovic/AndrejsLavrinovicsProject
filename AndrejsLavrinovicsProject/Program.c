@@ -10,8 +10,8 @@
 
 // Structures declaration
 struct login{
-	char username[30];
-	char password[20];
+	char username[6];
+	char password[6];
 };
 
 struct date{
